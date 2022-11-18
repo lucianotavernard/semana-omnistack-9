@@ -7,16 +7,16 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ltavernard/semana-omnistack-9">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lucianotavernard/semana-omnistack-9">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ltavernard/semana-omnistack-9">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lucianotavernard/semana-omnistack-9">
 
-  <a href="https://github.com/ltavernard/semana-omnistack-9/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ltavernard/semana-omnistack-9">
+  <a href="https://github.com/lucianotavernard/semana-omnistack-9/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucianotavernard/semana-omnistack-9">
   </a>
 
-  <a href="https://github.com/ltavernard/semana-omnistack-9/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/ltavernard/semana-omnistack-9">
+  <a href="https://github.com/lucianotavernard/semana-omnistack-9/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/lucianotavernard/semana-omnistack-9">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -47,7 +47,7 @@ O Aircnc é um projeto que visa conectar empresas que querem abrir spots e desen
 
 No momento, você pode iniciar o projeto com as seguintes etapas:
 
-1. Clone o repositório: `https://github.com/ltavernard/semana-omnistack-9.git`
+1. Clone o repositório: `https://github.com/lucianotavernard/semana-omnistack-9.git`
 2. Acesse o diretório do projeto: `cd semana-omnistack-9`
 3. Rode o comando para instalar as dependências: `yarn`
 4. Rode o comando para instalar as outras dependências: `yarn bootstrap`
